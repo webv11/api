@@ -1,0 +1,14 @@
+.container{
+  display: flex;
+  justify-content: center;
+  padding: 50px
+}
+
+.sub-container{
+  border: 1px solid;
+}
+
+.h1{
+  border-bottom: 1px solid;
+  text-align: center;
+}
